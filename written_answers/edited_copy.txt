@@ -1,0 +1,22 @@
+Paragraph A (Template Output)
+“In TX unemployment was 3.9% for 2025-12 which is up 0.2 from last month. The state now ranks among the highest unemployment rates nationally.”
+
+1. Don't use the USPS state abbreviation TX. Use the full name Texas instead. This can be programmatically inserted.
+2. Don't use YYYY-MM to display the date, use Dec. '25 or some other more human-readable format. This can be programmatically formatted.
+3. Instead of "up 0.2" say "increased by 0.2 percentage points" to be more precise and descriptive of what the measure is and how it changed.
+4. "[R]anks among the highest unemployment rates nationally" --> What rank is it exactly? This is able to be derived programmatically along with it's difference from the overall rate of the country as a whole, it's division/region, etc.
+
+Paragraph B (Template Output)
+“California’s unemployment rate decreased by -0.1 percentage points to 4.8%, showing improvement compared to last month. Data is accurate as of Dec 2025.”
+
+1. This is a personal thing, but semantically having a rate decrease by a negative number can be a bit misleading, I would say "decreased by 0.1 percentage point"
+2. "showing improvement compared to last month": What is the improvement? What are the months in question. These can be programmatically inserted.
+3. "Data is accurate as of Dec. 2025": Typically this info is great for footnotes of charts or at the end of pieces. These can be programmatically inserted.
+
+Paragraph C (Mixed Copy)
+“Unemployment remained the same in New York at 4.3% (it was also 4.3%). Nevada saw the biggest change of all states, while several others changed slightly.”
+
+1. "Unemployment" should be "The unemployment rate" to be precise.
+2. "(it was also 4.3%)": This is repetitive and unnecessary.
+3. "Nevada saw the biggest change of all states". What was the change? Change over what time period?
+4. "While several others changed slightly". Several is how many? What is slightly? This can be programmatically put in.

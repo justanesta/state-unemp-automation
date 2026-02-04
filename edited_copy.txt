@@ -1,0 +1,139 @@
+edited_copy.txt – AP Style editorial pass on assignment draft paragraphs
+=========================================================================
+
+Each paragraph below shows the original draft, the edited version, and notes
+on what was changed and where the upstream fix belongs.
+
+
+-------------------------------------------------------------------------
+PARAGRAPH A (Template Output)
+-------------------------------------------------------------------------
+
+ORIGINAL:
+"In TX unemployment was 3.9% for 2025-12 which is up 0.2 from last month.
+The state now ranks among the highest unemployment rates nationally."
+
+EDITED:
+"Texas's unemployment rate was 3.9 percent in Dec. 2025, up 0.2 percentage
+points from the prior month. Texas had the [N]th highest unemployment rate
+in the country overall."
+
+CHANGES & FLAGS:
+- "In TX" → "Texas's unemployment rate was" — STATE NAMES must be spelled
+  out. The template already resolves codes to canonical names; this was a
+  template bug (bare code in output).  [FIX: template]
+
+- "3.9%" → "3.9 percent" — AP Style: spell out "percent" in prose.
+  [FIX: template]
+
+- "for 2025-12" → "in Dec. 2025" — Dates must use AP Style month
+  abbreviation. ISO format should never appear in user-facing copy.
+  [FIX: template]
+
+- "which is up 0.2 from last month" → "up 0.2 percentage points from the
+  prior month" — Missing unit. "0.2" alone is ambiguous; must say
+  "percentage points" when describing change. "last month" → "the prior
+  month" for consistency.  [FIX: template]
+
+- "The state now ranks among the highest unemployment rates nationally" —
+  FLAG: unsupported ranking claim. "Among the highest" is vague and
+  unverifiable without computed data. REPLACE with the actual computed
+  national rank from the pipeline.  [FIX: methodology — template must
+  render the computed rank, not a qualitative assessment]
+
+
+-------------------------------------------------------------------------
+PARAGRAPH B (Template Output)
+-------------------------------------------------------------------------
+
+ORIGINAL:
+"California's unemployment rate decreased by -0.1 percentage points to
+4.8%, showing improvement compared to last month. Data is accurate as of
+Dec 2025."
+
+EDITED:
+"California's unemployment rate was 4.8 percent in Dec. 2025, down 0.1
+percentage points from the prior month."
+
+CHANGES & FLAGS:
+- "decreased by -0.1" → "down 0.1" — DOUBLE NEGATIVE. "Decreased" already
+  implies direction; the value must be the absolute change (0.1), not -0.1.
+  The template should always pair the direction word with the absolute
+  value.  [FIX: template]
+
+- "4.8%" → "4.8 percent" — AP Style.  [FIX: template]
+
+- "showing improvement compared to last month" — FLAG: editorializing.
+  "Improvement" implies a value judgment. The template should state the
+  direction and magnitude neutrally and let readers interpret.  Remove.
+  [FIX: template]
+
+- "Data is accurate as of Dec 2025" — FLAG: vague sourcing claim.
+  "Accurate as of" does not specify the source or when it was published.
+  Source attribution (e.g. "Source: BLS, [date]") belongs in a
+  standardized footer on the page, not inline in the sentence.  Remove
+  from template; add to page-level source note.  [FIX: methodology]
+
+
+-------------------------------------------------------------------------
+PARAGRAPH C (Mixed Copy)
+-------------------------------------------------------------------------
+
+ORIGINAL:
+"Unemployment remained the same in New York at 4.3% (it was also 4.3%).
+Nevada saw the biggest change of all states, while several others changed
+slightly."
+
+EDITED:
+"New York's unemployment rate was 4.3 percent in Dec. 2025, unchanged from
+the prior month. Nevada had the 1st largest month-over-month change in the
+country overall."
+
+CHANGES & FLAGS:
+- "(it was also 4.3%)" — Redundant parenthetical. The "unchanged" template
+  variant already conveys that the rate did not move. Remove.
+  [FIX: template]
+
+- "4.3%" → "4.3 percent" — AP Style.  [FIX: template]
+
+- "Nevada saw the biggest change of all states" — FLAG: unsupported
+  superlative. In the actual Dec 2025 data, this claim must be verified
+  against computed MoM rankings before publishing. The template renders
+  the computed rank (e.g. "1st largest month-over-month change in the
+  country overall"), which is self-verifying.  [FIX: methodology]
+
+- "while several others changed slightly" — FLAG: vague, unsubstantiated.
+  "Several others" and "slightly" add no information and cannot be
+  verified. Remove entirely. Each state's change is reported in its own
+  entry; a cross-state summary like this belongs in a hand-written lede,
+  not in template output.  [FIX: template — do not generate cross-state
+  comparative prose from templates]
+
+
+-------------------------------------------------------------------------
+TABLE NOTES — EDITOR COMMENTS ADDRESSED
+-------------------------------------------------------------------------
+
+Q: "Should we say percent or percentage points here?"
+A: These are distinct concepts and must never be conflated.
+   - "percent" = the rate itself. "California's rate was 4.8 percent."
+   - "percentage points" = the unit of change between two rates.
+     "Up 0.2 percentage points." (Not "up 0.2 percent" — that would mean
+     a 0.2% relative increase, which is a different number entirely.)
+   The template enforces this distinction: rate uses "percent", change
+   uses "percentage points".
+
+Q: "This sounds like a ranking claim — is that supported?"
+A: Ranking claims are supported only when generated from computed data.
+   The pipeline computes competition rankings at national, regional, and
+   divisional scopes. Any ranking sentence in the output is backed by the
+   sorted data. Qualitative rankings like "among the highest" (Paragraph
+   A) are never generated by the template — they must be removed if they
+   appear.
+
+Q: "Do we need an 'as of' or source note?"
+A: Yes. Every published roundup should include a source footer:
+   "Source: [source field from data], data as of [latest month]."
+   This belongs at the page level (below the article or data table), not
+   inline in individual sentences. The pipeline includes the `source`
+   field in the wordsmith payload for the page template to render.

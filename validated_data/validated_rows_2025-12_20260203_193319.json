@@ -1,0 +1,2330 @@
+[
+  {
+    "state_canonical": "Alabama",
+    "state_code": "AL",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.7,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 2,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alabama",
+    "state_code": "AL",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.7,
+    "source": "BLS",
+    "source_row_index": 3,
+    "qa_flags": [
+      "date_corrected: original='2025/10' canonical='2025-10'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alabama",
+    "state_code": "AL",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.5,
+    "unemployment_rate_prev_month": 4.6,
+    "source": "BLS",
+    "source_row_index": 4,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alabama",
+    "state_code": "AL",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.5,
+    "source": "BLS",
+    "source_row_index": 5,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alaska",
+    "state_code": "AK",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 6,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alaska",
+    "state_code": "AK",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.5,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 7,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alaska",
+    "state_code": "AK",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.5,
+    "source": "BLS",
+    "source_row_index": 8,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Alaska",
+    "state_code": "AK",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 9,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arizona",
+    "state_code": "AZ",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 10,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arizona",
+    "state_code": "AZ",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 11,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arizona",
+    "state_code": "AZ",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 12,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-10"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arizona",
+    "state_code": "AZ",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.2,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 13,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arkansas",
+    "state_code": "AR",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.8,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 14,
+    "qa_flags": [
+      "missing_prev_month"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arkansas",
+    "state_code": "AR",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.9,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 15,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-09"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arkansas",
+    "state_code": "AR",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.9,
+    "unemployment_rate_prev_month": 3.9,
+    "source": "BLS",
+    "source_row_index": 16,
+    "qa_flags": [
+      "date_corrected: original='2025/11' canonical='2025-11'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Arkansas",
+    "state_code": "AR",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.1,
+    "unemployment_rate_prev_month": 3.9,
+    "source": "BLS",
+    "source_row_index": 17,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "California",
+    "state_code": "CA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.9,
+    "unemployment_rate_prev_month": 4.0,
+    "source": "BLS",
+    "source_row_index": 18,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "California",
+    "state_code": "CA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.6,
+    "unemployment_rate_prev_month": 3.9,
+    "source": "BLS",
+    "source_row_index": 19,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "California",
+    "state_code": "CA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.5,
+    "unemployment_rate_prev_month": 3.6,
+    "source": "BLS",
+    "source_row_index": 20,
+    "qa_flags": [
+      "state_name_normalized: original='Calif.' canonical='California'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "California",
+    "state_code": "CA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.5,
+    "source": "BLS",
+    "source_row_index": 21,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Colorado",
+    "state_code": "CO",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.5,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 22,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Colorado",
+    "state_code": "CO",
+    "month_canonical": "2025-10",
+    "unemployment_rate": -1.2,
+    "unemployment_rate_prev_month": 3.5,
+    "source": "BLS",
+    "source_row_index": 23,
+    "qa_flags": [
+      "implausible_rate: -1.2"
+    ],
+    "is_publishable": false
+  },
+  {
+    "state_canonical": "Colorado",
+    "state_code": "CO",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.1,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 24,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Colorado",
+    "state_code": "CO",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.1,
+    "unemployment_rate_prev_month": 3.1,
+    "source": "BLS",
+    "source_row_index": 25,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Connecticut",
+    "state_code": "CT",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 3.1,
+    "source": "BLS",
+    "source_row_index": 26,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Connecticut",
+    "state_code": "CT",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.7,
+    "unemployment_rate_prev_month": 2.9,
+    "source": "BLS",
+    "source_row_index": 27,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Connecticut",
+    "state_code": "CT",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 2.6,
+    "unemployment_rate_prev_month": 2.7,
+    "source": "BLS",
+    "source_row_index": 28,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Connecticut",
+    "state_code": "CT",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 2.8,
+    "unemployment_rate_prev_month": 2.6,
+    "source": "BLS",
+    "source_row_index": 29,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Delaware",
+    "state_code": "DE",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.6,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 30,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Delaware",
+    "state_code": "DE",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.8,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 31,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-09"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Delaware",
+    "state_code": "DE",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.6,
+    "unemployment_rate_prev_month": 3.8,
+    "source": "BLS",
+    "source_row_index": 32,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Delaware",
+    "state_code": "DE",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.6,
+    "source": "BLS",
+    "source_row_index": 33,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Florida",
+    "state_code": "FL",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 34,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Florida",
+    "state_code": "FL",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 5.0,
+    "source": "BLS",
+    "source_row_index": 35,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Florida",
+    "state_code": "FL",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 36,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Florida",
+    "state_code": "FL",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 37,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-11"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Georgia",
+    "state_code": "GA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.8,
+    "unemployment_rate_prev_month": 4.6,
+    "source": "BLS",
+    "source_row_index": 38,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Georgia",
+    "state_code": "GA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.7,
+    "unemployment_rate_prev_month": 4.8,
+    "source": "BLS",
+    "source_row_index": 39,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Georgia",
+    "state_code": "GA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.5,
+    "unemployment_rate_prev_month": 4.7,
+    "source": "BLS",
+    "source_row_index": 40,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Georgia",
+    "state_code": "GA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.3,
+    "unemployment_rate_prev_month": 4.5,
+    "source": "BLS",
+    "source_row_index": 41,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Hawaii",
+    "state_code": "HI",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.6,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 42,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Hawaii",
+    "state_code": "HI",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": 6.6,
+    "source": "BLS",
+    "source_row_index": 43,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Hawaii",
+    "state_code": "HI",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 44,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Hawaii",
+    "state_code": "HI",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.2,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 45,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Idaho",
+    "state_code": "ID",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": 6.5,
+    "source": "BLS",
+    "source_row_index": 46,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Idaho",
+    "state_code": "ID",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.1,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 47,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Idaho",
+    "state_code": "ID",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.9,
+    "unemployment_rate_prev_month": 6.1,
+    "source": "BLS",
+    "source_row_index": 48,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Idaho",
+    "state_code": "ID",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.1,
+    "unemployment_rate_prev_month": 5.9,
+    "source": "BLS",
+    "source_row_index": 49,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Illinois",
+    "state_code": "IL",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 50,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Illinois",
+    "state_code": "IL",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 51,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Illinois",
+    "state_code": "IL",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 52,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Illinois",
+    "state_code": "IL",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 53,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Indiana",
+    "state_code": "IN",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 54,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Indiana",
+    "state_code": "IN",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 55,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Indiana",
+    "state_code": "IN",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 56,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-10"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Indiana",
+    "state_code": "IN",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 57,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Iowa",
+    "state_code": "IA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 3.2,
+    "source": "BLS",
+    "source_row_index": 58,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Iowa",
+    "state_code": "IA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.7,
+    "unemployment_rate_prev_month": 2.9,
+    "source": "BLS",
+    "source_row_index": 59,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Iowa",
+    "state_code": "IA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 2.5,
+    "unemployment_rate_prev_month": 2.7,
+    "source": "BLS",
+    "source_row_index": 60,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Iowa",
+    "state_code": "IA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 2.6,
+    "unemployment_rate_prev_month": 2.5,
+    "source": "BLS",
+    "source_row_index": 61,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kansas",
+    "state_code": "KS",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.9,
+    "unemployment_rate_prev_month": 3.7,
+    "source": "BLS",
+    "source_row_index": 62,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kansas",
+    "state_code": "KS",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.1,
+    "unemployment_rate_prev_month": 3.9,
+    "source": "BLS",
+    "source_row_index": 63,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kansas",
+    "state_code": "KS",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.1,
+    "source": "BLS",
+    "source_row_index": 64,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kansas",
+    "state_code": "KS",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 65,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kentucky",
+    "state_code": "KY",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 4.8,
+    "source": "BLS",
+    "source_row_index": 66,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kentucky",
+    "state_code": "KY",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.9,
+    "unemployment_rate_prev_month": 5.0,
+    "source": "BLS",
+    "source_row_index": 67,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kentucky",
+    "state_code": "KY",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 68,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Kentucky",
+    "state_code": "KY",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.5,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 69,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Louisiana",
+    "state_code": "LA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.1,
+    "unemployment_rate_prev_month": 3.2,
+    "source": "BLS",
+    "source_row_index": 70,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Louisiana",
+    "state_code": "LA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.2,
+    "unemployment_rate_prev_month": 3.1,
+    "source": "BLS",
+    "source_row_index": 71,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Louisiana",
+    "state_code": "LA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.0,
+    "unemployment_rate_prev_month": 3.2,
+    "source": "BLS",
+    "source_row_index": 72,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Louisiana",
+    "state_code": "LA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.1,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 73,
+    "qa_flags": [
+      "date_corrected: original='2025/12' canonical='2025-12'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maine",
+    "state_code": "ME",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.1,
+    "unemployment_rate_prev_month": 4.3,
+    "source": "BLS",
+    "source_row_index": 74,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maine",
+    "state_code": "ME",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.1,
+    "source": "BLS",
+    "source_row_index": 75,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maine",
+    "state_code": "ME",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.1,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 76,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maine",
+    "state_code": "ME",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.8,
+    "unemployment_rate_prev_month": 4.1,
+    "source": "BLS",
+    "source_row_index": 77,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maryland",
+    "state_code": "MD",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 78,
+    "qa_flags": [
+      "date_corrected: original='2025/09' canonical='2025-09'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maryland",
+    "state_code": "MD",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 79,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maryland",
+    "state_code": "MD",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 80,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Maryland",
+    "state_code": "MD",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 81,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Massachusetts",
+    "state_code": "MA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 82,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Massachusetts",
+    "state_code": "MA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 83,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Massachusetts",
+    "state_code": "MA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.9,
+    "unemployment_rate_prev_month": 5.0,
+    "source": "BLS",
+    "source_row_index": 84,
+    "qa_flags": [
+      "date_corrected: original='2025/11' canonical='2025-11'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Massachusetts",
+    "state_code": "MA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 85,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Michigan",
+    "state_code": "MI",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.2,
+    "unemployment_rate_prev_month": 6.1,
+    "source": "BLS",
+    "source_row_index": 86,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Michigan",
+    "state_code": "MI",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 87,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-09"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Michigan",
+    "state_code": "MI",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 88,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Michigan",
+    "state_code": "MI",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 89,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Minnesota",
+    "state_code": "MN",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.3,
+    "unemployment_rate_prev_month": 4.3,
+    "source": "BLS",
+    "source_row_index": 90,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Minnesota",
+    "state_code": "MN",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.3,
+    "source": "BLS",
+    "source_row_index": 91,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Minnesota",
+    "state_code": "MN",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.5,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 92,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Minnesota",
+    "state_code": "MN",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.3,
+    "unemployment_rate_prev_month": 4.5,
+    "source": "BLS",
+    "source_row_index": 93,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Mississippi",
+    "state_code": "MS",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 94,
+    "qa_flags": [
+      "missing_prev_month"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Mississippi",
+    "state_code": "MS",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 95,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Mississippi",
+    "state_code": "MS",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.0,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 96,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Mississippi",
+    "state_code": "MS",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.0,
+    "source": "BLS",
+    "source_row_index": 97,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Missouri",
+    "state_code": "MO",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 98,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Missouri",
+    "state_code": "MO",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 99,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Missouri",
+    "state_code": "MO",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 100,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Missouri",
+    "state_code": "MO",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 101,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Montana",
+    "state_code": "MT",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 102,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Montana",
+    "state_code": "MT",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.1,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 103,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Montana",
+    "state_code": "MT",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.1,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 104,
+    "qa_flags": [
+      "date_corrected: original='2025/11' canonical='2025-11'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Montana",
+    "state_code": "MT",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.1,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 105,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nebraska",
+    "state_code": "NE",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 106,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nebraska",
+    "state_code": "NE",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.8,
+    "unemployment_rate_prev_month": 2.9,
+    "source": "BLS",
+    "source_row_index": 107,
+    "qa_flags": [
+      "date_corrected: original='2025/10' canonical='2025-10'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nebraska",
+    "state_code": "NE",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.0,
+    "unemployment_rate_prev_month": 2.8,
+    "source": "BLS",
+    "source_row_index": 108,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nebraska",
+    "state_code": "NE",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 2.7,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 109,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nevada",
+    "state_code": "NV",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.0,
+    "unemployment_rate_prev_month": 3.2,
+    "source": "BLS",
+    "source_row_index": 110,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nevada",
+    "state_code": "NV",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 111,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nevada",
+    "state_code": "NV",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 2.8,
+    "unemployment_rate_prev_month": 2.9,
+    "source": "BLS",
+    "source_row_index": 112,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Nevada",
+    "state_code": "NV",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 2.8,
+    "source": "BLS",
+    "source_row_index": 113,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Hampshire",
+    "state_code": "NH",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 114,
+    "qa_flags": [
+      "missing_prev_month"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Hampshire",
+    "state_code": "NH",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 115,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Hampshire",
+    "state_code": "NH",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.1,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 116,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Hampshire",
+    "state_code": "NH",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.9,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 117,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-11"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Jersey",
+    "state_code": "NJ",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 118,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Jersey",
+    "state_code": "NJ",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 119,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Jersey",
+    "state_code": "NJ",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.8,
+    "unemployment_rate_prev_month": 4.6,
+    "source": "BLS",
+    "source_row_index": 120,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Jersey",
+    "state_code": "NJ",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.7,
+    "unemployment_rate_prev_month": 4.8,
+    "source": "BLS",
+    "source_row_index": 121,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Mexico",
+    "state_code": "NM",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.2,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 122,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Mexico",
+    "state_code": "NM",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": 6.2,
+    "source": "BLS",
+    "source_row_index": 123,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Mexico",
+    "state_code": "NM",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 124,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New Mexico",
+    "state_code": "NM",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 6.0,
+    "source": "BLS",
+    "source_row_index": 125,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New York",
+    "state_code": "NY",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.0,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 126,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New York",
+    "state_code": "NY",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.0,
+    "source": "BLS",
+    "source_row_index": 127,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New York",
+    "state_code": "NY",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 128,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-10"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "New York",
+    "state_code": "NY",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 129,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Carolina",
+    "state_code": "NC",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 130,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Carolina",
+    "state_code": "NC",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.6,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 131,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Carolina",
+    "state_code": "NC",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.8,
+    "unemployment_rate_prev_month": 3.6,
+    "source": "BLS",
+    "source_row_index": 132,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Carolina",
+    "state_code": "NC",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.7,
+    "unemployment_rate_prev_month": 3.8,
+    "source": "BLS",
+    "source_row_index": 133,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Dakota",
+    "state_code": "ND",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.1,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 134,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Dakota",
+    "state_code": "ND",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 135,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Dakota",
+    "state_code": "ND",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 136,
+    "qa_flags": [
+      "date_corrected: original='2025/11' canonical='2025-11'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "North Dakota",
+    "state_code": "ND",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 137,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Ohio",
+    "state_code": "OH",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 6.2,
+    "source": "BLS",
+    "source_row_index": 138,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Ohio",
+    "state_code": "OH",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 6.0,
+    "source": "BLS",
+    "source_row_index": 139,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Ohio",
+    "state_code": "OH",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 140,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Ohio",
+    "state_code": "OH",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 141,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oklahoma",
+    "state_code": "OK",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 142,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oklahoma",
+    "state_code": "OK",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.3,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 143,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oklahoma",
+    "state_code": "OK",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 144,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oklahoma",
+    "state_code": "OK",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 145,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oregon",
+    "state_code": "OR",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.3,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 146,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oregon",
+    "state_code": "OR",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.3,
+    "source": "BLS",
+    "source_row_index": 147,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oregon",
+    "state_code": "OR",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 3.4,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 148,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Oregon",
+    "state_code": "OR",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.3,
+    "unemployment_rate_prev_month": 3.4,
+    "source": "BLS",
+    "source_row_index": 149,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Pennsylvania",
+    "state_code": "PA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 150,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Pennsylvania",
+    "state_code": "PA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 151,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Pennsylvania",
+    "state_code": "PA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.9,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 152,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Pennsylvania",
+    "state_code": "PA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.9,
+    "source": "BLS",
+    "source_row_index": 153,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Rhode Island",
+    "state_code": "RI",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.5,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 154,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Rhode Island",
+    "state_code": "RI",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 5.5,
+    "source": "BLS",
+    "source_row_index": 155,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Rhode Island",
+    "state_code": "RI",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 27.0,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 156,
+    "qa_flags": [
+      "rate_unusually_high: 27.0",
+      "rate_conflict: current=27.0 vs prev_month=5.3 (from source row 157)"
+    ],
+    "is_publishable": false
+  },
+  {
+    "state_canonical": "Rhode Island",
+    "state_code": "RI",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.5,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 157,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Carolina",
+    "state_code": "SC",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 158,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Carolina",
+    "state_code": "SC",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 159,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Carolina",
+    "state_code": "SC",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.4,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 160,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Carolina",
+    "state_code": "SC",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 161,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Dakota",
+    "state_code": "SD",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.2,
+    "unemployment_rate_prev_month": 5.3,
+    "source": "BLS",
+    "source_row_index": 162,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Dakota",
+    "state_code": "SD",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.1,
+    "unemployment_rate_prev_month": 5.2,
+    "source": "BLS",
+    "source_row_index": 163,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Dakota",
+    "state_code": "SD",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.8,
+    "unemployment_rate_prev_month": 5.1,
+    "source": "BLS",
+    "source_row_index": 164,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "South Dakota",
+    "state_code": "SD",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.8,
+    "source": "BLS",
+    "source_row_index": 165,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Tennessee",
+    "state_code": "TN",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.4,
+    "unemployment_rate_prev_month": 4.7,
+    "source": "BLS",
+    "source_row_index": 166,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Tennessee",
+    "state_code": "TN",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.4,
+    "source": "BLS",
+    "source_row_index": 167,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Tennessee",
+    "state_code": "TN",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 168,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Tennessee",
+    "state_code": "TN",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.0,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 169,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Texas",
+    "state_code": "TX",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 170,
+    "qa_flags": [
+      "state_name_normalized: original='TX' canonical='Texas'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Texas",
+    "state_code": "TX",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 171,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Texas",
+    "state_code": "TX",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 172,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Texas",
+    "state_code": "TX",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 173,
+    "qa_flags": [
+      "state_name_normalized: original='TX' canonical='Texas'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Utah",
+    "state_code": "UT",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": 4.3,
+    "source": "BLS",
+    "source_row_index": 174,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Utah",
+    "state_code": "UT",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 3.9,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 175,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Utah",
+    "state_code": "UT",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.2,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 176,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-10"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Utah",
+    "state_code": "UT",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.1,
+    "unemployment_rate_prev_month": 4.2,
+    "source": "BLS",
+    "source_row_index": 177,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Vermont",
+    "state_code": "VT",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 4.8,
+    "unemployment_rate_prev_month": 4.9,
+    "source": "BLS",
+    "source_row_index": 178,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Vermont",
+    "state_code": "VT",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 4.7,
+    "unemployment_rate_prev_month": 4.8,
+    "source": "BLS",
+    "source_row_index": 179,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Vermont",
+    "state_code": "VT",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 4.6,
+    "unemployment_rate_prev_month": 4.7,
+    "source": "BLS",
+    "source_row_index": 180,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Vermont",
+    "state_code": "VT",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 4.8,
+    "unemployment_rate_prev_month": 4.6,
+    "source": "BLS",
+    "source_row_index": 181,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Virginia",
+    "state_code": "VA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 5.9,
+    "source": "BLS",
+    "source_row_index": 182,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Virginia",
+    "state_code": "VA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 183,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Virginia",
+    "state_code": "VA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 184,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-10"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Virginia",
+    "state_code": "VA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 185,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Washington",
+    "state_code": "WA",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 5.4,
+    "source": "BLS",
+    "source_row_index": 186,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Washington",
+    "state_code": "WA",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 187,
+    "qa_flags": [
+      "date_corrected: original='2025/10' canonical='2025-10'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Washington",
+    "state_code": "WA",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.7,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 188,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Washington",
+    "state_code": "WA",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 189,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "West Virginia",
+    "state_code": "WV",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.7,
+    "source": "BLS",
+    "source_row_index": 190,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "West Virginia",
+    "state_code": "WV",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.1,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 191,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "West Virginia",
+    "state_code": "WV",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.3,
+    "unemployment_rate_prev_month": 6.1,
+    "source": "BLS",
+    "source_row_index": 192,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "West Virginia",
+    "state_code": "WV",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 6.0,
+    "unemployment_rate_prev_month": 6.3,
+    "source": "BLS",
+    "source_row_index": 193,
+    "qa_flags": [
+      "date_corrected: original='2025/12' canonical='2025-12'"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wisconsin",
+    "state_code": "WI",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.1,
+    "unemployment_rate_prev_month": 6.0,
+    "source": "BLS",
+    "source_row_index": 194,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wisconsin",
+    "state_code": "WI",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 6.4,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 195,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-09"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wisconsin",
+    "state_code": "WI",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 6.2,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 196,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wisconsin",
+    "state_code": "WI",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.9,
+    "unemployment_rate_prev_month": 6.2,
+    "source": "BLS",
+    "source_row_index": 197,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wyoming",
+    "state_code": "WY",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 3.0,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 198,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wyoming",
+    "state_code": "WY",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.7,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 199,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wyoming",
+    "state_code": "WY",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 2.9,
+    "unemployment_rate_prev_month": 2.7,
+    "source": "BLS",
+    "source_row_index": 200,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wyoming",
+    "state_code": "WY",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 3.1,
+    "unemployment_rate_prev_month": null,
+    "source": "BLS",
+    "source_row_index": 201,
+    "qa_flags": [
+      "missing_prev_month",
+      "prev_month_imputed: sourced from 2025-11"
+    ],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Hawaii",
+    "state_code": "HI",
+    "month_canonical": "2025-09",
+    "unemployment_rate": 6.6,
+    "unemployment_rate_prev_month": 6.4,
+    "source": "BLS",
+    "source_row_index": 202,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Illinois",
+    "state_code": "IL",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.6,
+    "unemployment_rate_prev_month": 5.8,
+    "source": "BLS",
+    "source_row_index": 203,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Ohio",
+    "state_code": "OH",
+    "month_canonical": "2025-12",
+    "unemployment_rate": 5.3,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 204,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Wyoming",
+    "state_code": "WY",
+    "month_canonical": "2025-10",
+    "unemployment_rate": 2.7,
+    "unemployment_rate_prev_month": 3.0,
+    "source": "BLS",
+    "source_row_index": 205,
+    "qa_flags": [],
+    "is_publishable": true
+  },
+  {
+    "state_canonical": "Texas",
+    "state_code": "TX",
+    "month_canonical": "2025-11",
+    "unemployment_rate": 5.8,
+    "unemployment_rate_prev_month": 5.6,
+    "source": "BLS",
+    "source_row_index": 206,
+    "qa_flags": [],
+    "is_publishable": true
+  }
+]

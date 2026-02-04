@@ -1,0 +1,18 @@
+{
+  "run_id": "20260203_193319",
+  "started_at": "2026-02-03T19:33:19.666438",
+  "status": "completed",
+  "steps_completed": [
+    "validate",
+    "clean",
+    "output"
+  ],
+  "latest_data_month": "2025-12",
+  "input_file": null,
+  "rows_ingested": 205,
+  "rows_validated": 205,
+  "rows_publishable": 203,
+  "states_with_data": 50,
+  "gate_passed": true,
+  "abort_reason": null
+}

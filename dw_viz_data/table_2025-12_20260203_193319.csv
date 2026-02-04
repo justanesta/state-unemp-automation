@@ -1,0 +1,51 @@
+date,State,state_code,Unemployment Rate,Monthly Change,Region,Division,update_dttm
+2025-12-01,Michigan,MI,6.4,0.0,Midwest,East North Central,20260203_193319
+2025-12-01,Arizona,AZ,6.2,-0.2,West,Mountain,20260203_193319
+2025-12-01,Hawaii,HI,6.2,-0.2,West,Pacific,20260203_193319
+2025-12-01,Idaho,ID,6.1,0.2,West,Mountain,20260203_193319
+2025-12-01,Texas,TX,6.0,0.2,South,West South Central,20260203_193319
+2025-12-01,Virginia,VA,6.0,0.2,South,South Atlantic,20260203_193319
+2025-12-01,Washington,WA,6.0,0.3,West,Pacific,20260203_193319
+2025-12-01,West Virginia,WV,6.0,-0.3,South,South Atlantic,20260203_193319
+2025-12-01,New Hampshire,NH,5.9,-0.2,Northeast,New England,20260203_193319
+2025-12-01,Wisconsin,WI,5.9,-0.3,Midwest,East North Central,20260203_193319
+2025-12-01,Alaska,AK,5.8,0.2,West,Pacific,20260203_193319
+2025-12-01,Pennsylvania,PA,5.8,-0.1,Northeast,Middle Atlantic,20260203_193319
+2025-12-01,New Mexico,NM,5.7,-0.3,West,Mountain,20260203_193319
+2025-12-01,Illinois,IL,5.6,-0.2,Midwest,East North Central,20260203_193319
+2025-12-01,South Carolina,SC,5.6,0.2,South,South Atlantic,20260203_193319
+2025-12-01,Kentucky,KY,5.5,0.3,South,East South Central,20260203_193319
+2025-12-01,Rhode Island,RI,5.5,0.2,Northeast,New England,20260203_193319
+2025-12-01,Missouri,MO,5.4,-0.2,Midwest,West North Central,20260203_193319
+2025-12-01,Maryland,MD,5.3,-0.1,South,South Atlantic,20260203_193319
+2025-12-01,Mississippi,MS,5.3,0.3,South,East South Central,20260203_193319
+2025-12-01,North Dakota,ND,5.3,-0.1,Midwest,West North Central,20260203_193319
+2025-12-01,Ohio,OH,5.3,-0.3,Midwest,East North Central,20260203_193319
+2025-12-01,Florida,FL,5.2,0.2,South,South Atlantic,20260203_193319
+2025-12-01,Montana,MT,5.1,0.0,West,Mountain,20260203_193319
+2025-12-01,Massachusetts,MA,5.0,0.1,Northeast,New England,20260203_193319
+2025-12-01,Vermont,VT,4.8,0.2,Northeast,New England,20260203_193319
+2025-12-01,New Jersey,NJ,4.7,-0.1,Northeast,Middle Atlantic,20260203_193319
+2025-12-01,Alabama,AL,4.6,0.1,South,East South Central,20260203_193319
+2025-12-01,South Dakota,SD,4.6,-0.2,Midwest,West North Central,20260203_193319
+2025-12-01,Indiana,IN,4.4,0.0,Midwest,East North Central,20260203_193319
+2025-12-01,New York,NY,4.4,0.2,Northeast,Middle Atlantic,20260203_193319
+2025-12-01,Georgia,GA,4.3,-0.2,South,South Atlantic,20260203_193319
+2025-12-01,Minnesota,MN,4.3,-0.2,Midwest,West North Central,20260203_193319
+2025-12-01,Kansas,KS,4.2,0.0,Midwest,West North Central,20260203_193319
+2025-12-01,Arkansas,AR,4.1,0.2,South,West South Central,20260203_193319
+2025-12-01,Utah,UT,4.1,-0.1,West,Mountain,20260203_193319
+2025-12-01,Tennessee,TN,4.0,-0.2,South,East South Central,20260203_193319
+2025-12-01,Maine,ME,3.8,-0.3,Northeast,New England,20260203_193319
+2025-12-01,North Carolina,NC,3.7,-0.1,South,South Atlantic,20260203_193319
+2025-12-01,California,CA,3.4,-0.1,West,Pacific,20260203_193319
+2025-12-01,Delaware,DE,3.4,-0.2,South,South Atlantic,20260203_193319
+2025-12-01,Oklahoma,OK,3.4,0.0,South,West South Central,20260203_193319
+2025-12-01,Oregon,OR,3.3,-0.1,West,Pacific,20260203_193319
+2025-12-01,Colorado,CO,3.1,0.0,West,Mountain,20260203_193319
+2025-12-01,Louisiana,LA,3.1,0.1,South,West South Central,20260203_193319
+2025-12-01,Wyoming,WY,3.1,0.2,West,Mountain,20260203_193319
+2025-12-01,Nevada,NV,2.9,0.1,West,Mountain,20260203_193319
+2025-12-01,Connecticut,CT,2.8,0.2,Northeast,New England,20260203_193319
+2025-12-01,Nebraska,NE,2.7,-0.3,Midwest,West North Central,20260203_193319
+2025-12-01,Iowa,IA,2.6,0.1,Midwest,West North Central,20260203_193319

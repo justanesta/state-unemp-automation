@@ -1,0 +1,247 @@
+{"state_canonical":"Alabama","state_code":"AL","date":"2025-09-01","value":4.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":3}
+{"state_canonical":"Alabama","state_code":"AL","date":"2025-08-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":2}
+{"state_canonical":"Alaska","state_code":"AK","date":"2025-09-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":7}
+{"state_canonical":"Alaska","state_code":"AK","date":"2025-08-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":6}
+{"state_canonical":"Arizona","state_code":"AZ","date":"2025-09-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":11}
+{"state_canonical":"Arizona","state_code":"AZ","date":"2025-08-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":10}
+{"state_canonical":"Arkansas","state_code":"AR","date":"2025-09-01","value":3.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":14}
+{"state_canonical":"California","state_code":"CA","date":"2025-09-01","value":3.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":19}
+{"state_canonical":"California","state_code":"CA","date":"2025-08-01","value":4.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":18}
+{"state_canonical":"Colorado","state_code":"CO","date":"2025-09-01","value":3.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":22}
+{"state_canonical":"Colorado","state_code":"CO","date":"2025-08-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":22}
+{"state_canonical":"Connecticut","state_code":"CT","date":"2025-09-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":27}
+{"state_canonical":"Connecticut","state_code":"CT","date":"2025-08-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":26}
+{"state_canonical":"Delaware","state_code":"DE","date":"2025-09-01","value":3.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":30}
+{"state_canonical":"Delaware","state_code":"DE","date":"2025-08-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":30}
+{"state_canonical":"Florida","state_code":"FL","date":"2025-09-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":35}
+{"state_canonical":"Florida","state_code":"FL","date":"2025-08-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":34}
+{"state_canonical":"Georgia","state_code":"GA","date":"2025-09-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":39}
+{"state_canonical":"Georgia","state_code":"GA","date":"2025-08-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":38}
+{"state_canonical":"Hawaii","state_code":"HI","date":"2025-09-01","value":6.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":43}
+{"state_canonical":"Hawaii","state_code":"HI","date":"2025-08-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":42}
+{"state_canonical":"Idaho","state_code":"ID","date":"2025-09-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":47}
+{"state_canonical":"Idaho","state_code":"ID","date":"2025-08-01","value":6.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":46}
+{"state_canonical":"Illinois","state_code":"IL","date":"2025-09-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":51}
+{"state_canonical":"Illinois","state_code":"IL","date":"2025-08-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":50}
+{"state_canonical":"Indiana","state_code":"IN","date":"2025-09-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":55}
+{"state_canonical":"Indiana","state_code":"IN","date":"2025-08-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":54}
+{"state_canonical":"Iowa","state_code":"IA","date":"2025-09-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":59}
+{"state_canonical":"Iowa","state_code":"IA","date":"2025-08-01","value":3.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":58}
+{"state_canonical":"Kansas","state_code":"KS","date":"2025-09-01","value":3.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":63}
+{"state_canonical":"Kansas","state_code":"KS","date":"2025-08-01","value":3.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":62}
+{"state_canonical":"Kentucky","state_code":"KY","date":"2025-09-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":67}
+{"state_canonical":"Kentucky","state_code":"KY","date":"2025-08-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":66}
+{"state_canonical":"Louisiana","state_code":"LA","date":"2025-09-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":71}
+{"state_canonical":"Louisiana","state_code":"LA","date":"2025-08-01","value":3.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":70}
+{"state_canonical":"Maine","state_code":"ME","date":"2025-09-01","value":4.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":75}
+{"state_canonical":"Maine","state_code":"ME","date":"2025-08-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":74}
+{"state_canonical":"Maryland","state_code":"MD","date":"2025-09-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":79}
+{"state_canonical":"Maryland","state_code":"MD","date":"2025-08-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":78}
+{"state_canonical":"Massachusetts","state_code":"MA","date":"2025-09-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":83}
+{"state_canonical":"Massachusetts","state_code":"MA","date":"2025-08-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":82}
+{"state_canonical":"Michigan","state_code":"MI","date":"2025-09-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":86}
+{"state_canonical":"Michigan","state_code":"MI","date":"2025-08-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":86}
+{"state_canonical":"Minnesota","state_code":"MN","date":"2025-09-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":91}
+{"state_canonical":"Minnesota","state_code":"MN","date":"2025-08-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":90}
+{"state_canonical":"Mississippi","state_code":"MS","date":"2025-09-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":95}
+{"state_canonical":"Missouri","state_code":"MO","date":"2025-09-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":99}
+{"state_canonical":"Missouri","state_code":"MO","date":"2025-08-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":98}
+{"state_canonical":"Montana","state_code":"MT","date":"2025-09-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":103}
+{"state_canonical":"Montana","state_code":"MT","date":"2025-08-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":102}
+{"state_canonical":"Nebraska","state_code":"NE","date":"2025-09-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":107}
+{"state_canonical":"Nebraska","state_code":"NE","date":"2025-08-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":106}
+{"state_canonical":"Nevada","state_code":"NV","date":"2025-09-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":111}
+{"state_canonical":"Nevada","state_code":"NV","date":"2025-08-01","value":3.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":110}
+{"state_canonical":"New Hampshire","state_code":"NH","date":"2025-09-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":115}
+{"state_canonical":"New Jersey","state_code":"NJ","date":"2025-09-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":119}
+{"state_canonical":"New Jersey","state_code":"NJ","date":"2025-08-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":118}
+{"state_canonical":"New Mexico","state_code":"NM","date":"2025-09-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":123}
+{"state_canonical":"New Mexico","state_code":"NM","date":"2025-08-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":122}
+{"state_canonical":"New York","state_code":"NY","date":"2025-09-01","value":4.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":127}
+{"state_canonical":"New York","state_code":"NY","date":"2025-08-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":126}
+{"state_canonical":"North Carolina","state_code":"NC","date":"2025-09-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":131}
+{"state_canonical":"North Carolina","state_code":"NC","date":"2025-08-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":130}
+{"state_canonical":"North Dakota","state_code":"ND","date":"2025-09-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":135}
+{"state_canonical":"North Dakota","state_code":"ND","date":"2025-08-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":134}
+{"state_canonical":"Ohio","state_code":"OH","date":"2025-09-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":139}
+{"state_canonical":"Ohio","state_code":"OH","date":"2025-08-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":138}
+{"state_canonical":"Oklahoma","state_code":"OK","date":"2025-09-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":143}
+{"state_canonical":"Oklahoma","state_code":"OK","date":"2025-08-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":142}
+{"state_canonical":"Oregon","state_code":"OR","date":"2025-09-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":147}
+{"state_canonical":"Oregon","state_code":"OR","date":"2025-08-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":146}
+{"state_canonical":"Pennsylvania","state_code":"PA","date":"2025-09-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":151}
+{"state_canonical":"Pennsylvania","state_code":"PA","date":"2025-08-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":150}
+{"state_canonical":"Rhode Island","state_code":"RI","date":"2025-09-01","value":5.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":155}
+{"state_canonical":"Rhode Island","state_code":"RI","date":"2025-08-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":154}
+{"state_canonical":"South Carolina","state_code":"SC","date":"2025-09-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":159}
+{"state_canonical":"South Carolina","state_code":"SC","date":"2025-08-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":158}
+{"state_canonical":"South Dakota","state_code":"SD","date":"2025-09-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":163}
+{"state_canonical":"South Dakota","state_code":"SD","date":"2025-08-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":162}
+{"state_canonical":"Tennessee","state_code":"TN","date":"2025-09-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":167}
+{"state_canonical":"Tennessee","state_code":"TN","date":"2025-08-01","value":4.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":166}
+{"state_canonical":"Texas","state_code":"TX","date":"2025-09-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":171}
+{"state_canonical":"Texas","state_code":"TX","date":"2025-08-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":170}
+{"state_canonical":"Utah","state_code":"UT","date":"2025-09-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":175}
+{"state_canonical":"Utah","state_code":"UT","date":"2025-08-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":174}
+{"state_canonical":"Vermont","state_code":"VT","date":"2025-09-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":179}
+{"state_canonical":"Vermont","state_code":"VT","date":"2025-08-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":178}
+{"state_canonical":"Virginia","state_code":"VA","date":"2025-09-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":183}
+{"state_canonical":"Virginia","state_code":"VA","date":"2025-08-01","value":5.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":182}
+{"state_canonical":"Washington","state_code":"WA","date":"2025-09-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":187}
+{"state_canonical":"Washington","state_code":"WA","date":"2025-08-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":186}
+{"state_canonical":"West Virginia","state_code":"WV","date":"2025-09-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":191}
+{"state_canonical":"West Virginia","state_code":"WV","date":"2025-08-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":190}
+{"state_canonical":"Wisconsin","state_code":"WI","date":"2025-09-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":194}
+{"state_canonical":"Wisconsin","state_code":"WI","date":"2025-08-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":194}
+{"state_canonical":"Wyoming","state_code":"WY","date":"2025-09-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":199}
+{"state_canonical":"Wyoming","state_code":"WY","date":"2025-08-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":198}
+{"state_canonical":"Alabama","state_code":"AL","date":"2025-10-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":4}
+{"state_canonical":"Alaska","state_code":"AK","date":"2025-10-01","value":5.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":8}
+{"state_canonical":"Arizona","state_code":"AZ","date":"2025-10-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":11}
+{"state_canonical":"Arkansas","state_code":"AR","date":"2025-10-01","value":3.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":16}
+{"state_canonical":"California","state_code":"CA","date":"2025-10-01","value":3.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":20}
+{"state_canonical":"Connecticut","state_code":"CT","date":"2025-10-01","value":2.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":28}
+{"state_canonical":"Delaware","state_code":"DE","date":"2025-10-01","value":3.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":32}
+{"state_canonical":"Florida","state_code":"FL","date":"2025-10-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":36}
+{"state_canonical":"Georgia","state_code":"GA","date":"2025-10-01","value":4.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":40}
+{"state_canonical":"Hawaii","state_code":"HI","date":"2025-10-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":44}
+{"state_canonical":"Idaho","state_code":"ID","date":"2025-10-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":48}
+{"state_canonical":"Illinois","state_code":"IL","date":"2025-10-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":52}
+{"state_canonical":"Indiana","state_code":"IN","date":"2025-10-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":55}
+{"state_canonical":"Iowa","state_code":"IA","date":"2025-10-01","value":2.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":60}
+{"state_canonical":"Kansas","state_code":"KS","date":"2025-10-01","value":4.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":64}
+{"state_canonical":"Kentucky","state_code":"KY","date":"2025-10-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":68}
+{"state_canonical":"Louisiana","state_code":"LA","date":"2025-10-01","value":3.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":72}
+{"state_canonical":"Maine","state_code":"ME","date":"2025-10-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":76}
+{"state_canonical":"Maryland","state_code":"MD","date":"2025-10-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":80}
+{"state_canonical":"Massachusetts","state_code":"MA","date":"2025-10-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":84}
+{"state_canonical":"Michigan","state_code":"MI","date":"2025-10-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":88}
+{"state_canonical":"Minnesota","state_code":"MN","date":"2025-10-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":92}
+{"state_canonical":"Mississippi","state_code":"MS","date":"2025-10-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":96}
+{"state_canonical":"Missouri","state_code":"MO","date":"2025-10-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":100}
+{"state_canonical":"Montana","state_code":"MT","date":"2025-10-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":104}
+{"state_canonical":"Nebraska","state_code":"NE","date":"2025-10-01","value":2.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":108}
+{"state_canonical":"Nevada","state_code":"NV","date":"2025-10-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":112}
+{"state_canonical":"New Hampshire","state_code":"NH","date":"2025-10-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":116}
+{"state_canonical":"New Jersey","state_code":"NJ","date":"2025-10-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":120}
+{"state_canonical":"New Mexico","state_code":"NM","date":"2025-10-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":124}
+{"state_canonical":"New York","state_code":"NY","date":"2025-10-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":127}
+{"state_canonical":"North Carolina","state_code":"NC","date":"2025-10-01","value":3.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":132}
+{"state_canonical":"North Dakota","state_code":"ND","date":"2025-10-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":136}
+{"state_canonical":"Ohio","state_code":"OH","date":"2025-10-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":140}
+{"state_canonical":"Oklahoma","state_code":"OK","date":"2025-10-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":144}
+{"state_canonical":"Oregon","state_code":"OR","date":"2025-10-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":148}
+{"state_canonical":"Pennsylvania","state_code":"PA","date":"2025-10-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":152}
+{"state_canonical":"Rhode Island","state_code":"RI","date":"2025-10-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":155}
+{"state_canonical":"South Carolina","state_code":"SC","date":"2025-10-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":160}
+{"state_canonical":"South Dakota","state_code":"SD","date":"2025-10-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":164}
+{"state_canonical":"Tennessee","state_code":"TN","date":"2025-10-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":168}
+{"state_canonical":"Texas","state_code":"TX","date":"2025-10-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":172}
+{"state_canonical":"Utah","state_code":"UT","date":"2025-10-01","value":3.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":175}
+{"state_canonical":"Vermont","state_code":"VT","date":"2025-10-01","value":4.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":180}
+{"state_canonical":"Virginia","state_code":"VA","date":"2025-10-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":183}
+{"state_canonical":"Washington","state_code":"WA","date":"2025-10-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":188}
+{"state_canonical":"West Virginia","state_code":"WV","date":"2025-10-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":192}
+{"state_canonical":"Wisconsin","state_code":"WI","date":"2025-10-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":196}
+{"state_canonical":"Wyoming","state_code":"WY","date":"2025-10-01","value":2.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":200}
+{"state_canonical":"Alabama","state_code":"AL","date":"2025-11-01","value":4.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":5}
+{"state_canonical":"Alaska","state_code":"AK","date":"2025-11-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":9}
+{"state_canonical":"Arizona","state_code":"AZ","date":"2025-11-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":13}
+{"state_canonical":"Arkansas","state_code":"AR","date":"2025-11-01","value":3.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":17}
+{"state_canonical":"California","state_code":"CA","date":"2025-11-01","value":3.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":21}
+{"state_canonical":"Colorado","state_code":"CO","date":"2025-11-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":25}
+{"state_canonical":"Colorado","state_code":"CO","date":"2025-10-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":24}
+{"state_canonical":"Connecticut","state_code":"CT","date":"2025-11-01","value":2.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":29}
+{"state_canonical":"Delaware","state_code":"DE","date":"2025-11-01","value":3.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":33}
+{"state_canonical":"Florida","state_code":"FL","date":"2025-11-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":36}
+{"state_canonical":"Georgia","state_code":"GA","date":"2025-11-01","value":4.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":41}
+{"state_canonical":"Hawaii","state_code":"HI","date":"2025-11-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":45}
+{"state_canonical":"Idaho","state_code":"ID","date":"2025-11-01","value":5.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":49}
+{"state_canonical":"Illinois","state_code":"IL","date":"2025-11-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":53}
+{"state_canonical":"Indiana","state_code":"IN","date":"2025-11-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":57}
+{"state_canonical":"Iowa","state_code":"IA","date":"2025-11-01","value":2.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":61}
+{"state_canonical":"Kansas","state_code":"KS","date":"2025-11-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":65}
+{"state_canonical":"Kentucky","state_code":"KY","date":"2025-11-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":69}
+{"state_canonical":"Louisiana","state_code":"LA","date":"2025-11-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":73}
+{"state_canonical":"Maine","state_code":"ME","date":"2025-11-01","value":4.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":77}
+{"state_canonical":"Maryland","state_code":"MD","date":"2025-11-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":81}
+{"state_canonical":"Massachusetts","state_code":"MA","date":"2025-11-01","value":4.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":85}
+{"state_canonical":"Michigan","state_code":"MI","date":"2025-11-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":89}
+{"state_canonical":"Minnesota","state_code":"MN","date":"2025-11-01","value":4.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":93}
+{"state_canonical":"Mississippi","state_code":"MS","date":"2025-11-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":97}
+{"state_canonical":"Missouri","state_code":"MO","date":"2025-11-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":101}
+{"state_canonical":"Montana","state_code":"MT","date":"2025-11-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":105}
+{"state_canonical":"Nebraska","state_code":"NE","date":"2025-11-01","value":3.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":109}
+{"state_canonical":"Nevada","state_code":"NV","date":"2025-11-01","value":2.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":113}
+{"state_canonical":"New Hampshire","state_code":"NH","date":"2025-11-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":116}
+{"state_canonical":"New Jersey","state_code":"NJ","date":"2025-11-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":121}
+{"state_canonical":"New Mexico","state_code":"NM","date":"2025-11-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":125}
+{"state_canonical":"New York","state_code":"NY","date":"2025-11-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":129}
+{"state_canonical":"North Carolina","state_code":"NC","date":"2025-11-01","value":3.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":133}
+{"state_canonical":"North Dakota","state_code":"ND","date":"2025-11-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":137}
+{"state_canonical":"Ohio","state_code":"OH","date":"2025-11-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":141}
+{"state_canonical":"Oklahoma","state_code":"OK","date":"2025-11-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":145}
+{"state_canonical":"Oregon","state_code":"OR","date":"2025-11-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":149}
+{"state_canonical":"Pennsylvania","state_code":"PA","date":"2025-11-01","value":5.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":153}
+{"state_canonical":"South Carolina","state_code":"SC","date":"2025-11-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":161}
+{"state_canonical":"South Dakota","state_code":"SD","date":"2025-11-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":165}
+{"state_canonical":"Tennessee","state_code":"TN","date":"2025-11-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":169}
+{"state_canonical":"Texas","state_code":"TX","date":"2025-11-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":173}
+{"state_canonical":"Utah","state_code":"UT","date":"2025-11-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":177}
+{"state_canonical":"Vermont","state_code":"VT","date":"2025-11-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":181}
+{"state_canonical":"Virginia","state_code":"VA","date":"2025-11-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":185}
+{"state_canonical":"Washington","state_code":"WA","date":"2025-11-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":189}
+{"state_canonical":"West Virginia","state_code":"WV","date":"2025-11-01","value":6.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":193}
+{"state_canonical":"Wisconsin","state_code":"WI","date":"2025-11-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":197}
+{"state_canonical":"Wyoming","state_code":"WY","date":"2025-11-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":200}
+{"state_canonical":"Alabama","state_code":"AL","date":"2025-12-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":5}
+{"state_canonical":"Alaska","state_code":"AK","date":"2025-12-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":9}
+{"state_canonical":"Arizona","state_code":"AZ","date":"2025-12-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":13}
+{"state_canonical":"Arkansas","state_code":"AR","date":"2025-12-01","value":4.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":17}
+{"state_canonical":"California","state_code":"CA","date":"2025-12-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":21}
+{"state_canonical":"Colorado","state_code":"CO","date":"2025-12-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":25}
+{"state_canonical":"Connecticut","state_code":"CT","date":"2025-12-01","value":2.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":29}
+{"state_canonical":"Delaware","state_code":"DE","date":"2025-12-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":33}
+{"state_canonical":"Florida","state_code":"FL","date":"2025-12-01","value":5.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":37}
+{"state_canonical":"Georgia","state_code":"GA","date":"2025-12-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":41}
+{"state_canonical":"Hawaii","state_code":"HI","date":"2025-12-01","value":6.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":45}
+{"state_canonical":"Idaho","state_code":"ID","date":"2025-12-01","value":6.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":49}
+{"state_canonical":"Illinois","state_code":"IL","date":"2025-12-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":53}
+{"state_canonical":"Indiana","state_code":"IN","date":"2025-12-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":57}
+{"state_canonical":"Iowa","state_code":"IA","date":"2025-12-01","value":2.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":61}
+{"state_canonical":"Kansas","state_code":"KS","date":"2025-12-01","value":4.2,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":65}
+{"state_canonical":"Kentucky","state_code":"KY","date":"2025-12-01","value":5.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":69}
+{"state_canonical":"Louisiana","state_code":"LA","date":"2025-12-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":73}
+{"state_canonical":"Maine","state_code":"ME","date":"2025-12-01","value":3.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":77}
+{"state_canonical":"Maryland","state_code":"MD","date":"2025-12-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":81}
+{"state_canonical":"Massachusetts","state_code":"MA","date":"2025-12-01","value":5.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":85}
+{"state_canonical":"Michigan","state_code":"MI","date":"2025-12-01","value":6.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":89}
+{"state_canonical":"Minnesota","state_code":"MN","date":"2025-12-01","value":4.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":93}
+{"state_canonical":"Mississippi","state_code":"MS","date":"2025-12-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":97}
+{"state_canonical":"Missouri","state_code":"MO","date":"2025-12-01","value":5.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":101}
+{"state_canonical":"Montana","state_code":"MT","date":"2025-12-01","value":5.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":105}
+{"state_canonical":"Nebraska","state_code":"NE","date":"2025-12-01","value":2.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":109}
+{"state_canonical":"Nevada","state_code":"NV","date":"2025-12-01","value":2.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":113}
+{"state_canonical":"New Hampshire","state_code":"NH","date":"2025-12-01","value":5.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":117}
+{"state_canonical":"New Jersey","state_code":"NJ","date":"2025-12-01","value":4.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":121}
+{"state_canonical":"New Mexico","state_code":"NM","date":"2025-12-01","value":5.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":125}
+{"state_canonical":"New York","state_code":"NY","date":"2025-12-01","value":4.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":129}
+{"state_canonical":"North Carolina","state_code":"NC","date":"2025-12-01","value":3.7,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":133}
+{"state_canonical":"North Dakota","state_code":"ND","date":"2025-12-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":137}
+{"state_canonical":"Ohio","state_code":"OH","date":"2025-12-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":141}
+{"state_canonical":"Oklahoma","state_code":"OK","date":"2025-12-01","value":3.4,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":145}
+{"state_canonical":"Oregon","state_code":"OR","date":"2025-12-01","value":3.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":149}
+{"state_canonical":"Pennsylvania","state_code":"PA","date":"2025-12-01","value":5.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":153}
+{"state_canonical":"Rhode Island","state_code":"RI","date":"2025-12-01","value":5.5,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":157}
+{"state_canonical":"Rhode Island","state_code":"RI","date":"2025-11-01","value":5.3,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":157}
+{"state_canonical":"South Carolina","state_code":"SC","date":"2025-12-01","value":5.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":161}
+{"state_canonical":"South Dakota","state_code":"SD","date":"2025-12-01","value":4.6,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":165}
+{"state_canonical":"Tennessee","state_code":"TN","date":"2025-12-01","value":4.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":169}
+{"state_canonical":"Texas","state_code":"TX","date":"2025-12-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":173}
+{"state_canonical":"Utah","state_code":"UT","date":"2025-12-01","value":4.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":177}
+{"state_canonical":"Vermont","state_code":"VT","date":"2025-12-01","value":4.8,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":181}
+{"state_canonical":"Virginia","state_code":"VA","date":"2025-12-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":185}
+{"state_canonical":"Washington","state_code":"WA","date":"2025-12-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":189}
+{"state_canonical":"West Virginia","state_code":"WV","date":"2025-12-01","value":6.0,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":193}
+{"state_canonical":"Wisconsin","state_code":"WI","date":"2025-12-01","value":5.9,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":197}
+{"state_canonical":"Wyoming","state_code":"WY","date":"2025-12-01","value":3.1,"source":"BLS","ingest_run":"2026-02-03T19:33:19.722056","source_row_index":201}

@@ -1,0 +1,5 @@
+- [x] Look into the RI and CO errors in the raw data and implement stricter failures for data that doesn't match up between months (RI) and for whatever is wrong with CO.
+- [x] Understand the revision handling logic. How it works, why that format (change if needed).
+- [ ] Write the written deliverables in a separate folder `written_answers/`
+- [ ] Add to the README.md file the broad overview and how to execute the pipeline.
+- [ ] Create an ARCHITECTURE.md file that has more details on the project architecture and operation.

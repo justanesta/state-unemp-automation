@@ -1,0 +1,4 @@
+* I would check the website of the source of the data (in this example the Bureau of Labor Statistics) to see if there is any news or guidance on missing data.
+* I would check other data aggregators like [FRED](https://fred.stlouisfed.org/) to see if they have uploaded data.
+* I would use the command line or a simple one-off script to download the raw data separate from the pipeline to see if it is still missing data.
+* 40% of data missing is a lot. If I couldn't find out any more information from the above investigatory actions as to if the data is actually missing from the source and why I would recommend holding publishing the entire data until I received more assurances that the non-missing data that is actually present is reliable.
