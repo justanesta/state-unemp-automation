@@ -1,8 +1,8 @@
 {
-  "run_id": "20260203_193319",
-  "produced_at": "2026-02-03T19:33:19.721784",
+  "run_id": "20260206_093845",
+  "produced_at": "2026-02-06T09:38:45.608717",
   "latest_data_month": "2025-12",
-  "rows_file": "validated_data/validated_rows_2025-12_20260203_193319.json",
+  "rows_file": "validated_data/validated_rows_2025-12_20260206_093845.json",
   "qa_summary": {
     "date_corrected": 10,
     "missing_prev_month": 15,

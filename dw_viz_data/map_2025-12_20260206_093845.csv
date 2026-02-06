@@ -1,0 +1,51 @@
+date,state_code,state_name,fips_code,unemployment_rate,mom_change_pp,trend_direction,rate_rank_national,census_region,census_division,update_dttm
+2025-12-01,AK,Alaska,02,5.8,0.2,up,11,West,Pacific,20260206_093845
+2025-12-01,AL,Alabama,01,4.6,0.1,up,28,South,East South Central,20260206_093845
+2025-12-01,AR,Arkansas,05,4.1,0.2,up,35,South,West South Central,20260206_093845
+2025-12-01,AZ,Arizona,04,6.2,-0.2,down,2,West,Mountain,20260206_093845
+2025-12-01,CA,California,06,3.4,-0.1,down,40,West,Pacific,20260206_093845
+2025-12-01,CO,Colorado,08,3.1,0.0,flat,44,West,Mountain,20260206_093845
+2025-12-01,CT,Connecticut,09,2.8,0.2,up,48,Northeast,New England,20260206_093845
+2025-12-01,DE,Delaware,10,3.4,-0.2,down,40,South,South Atlantic,20260206_093845
+2025-12-01,FL,Florida,12,5.2,0.2,up,23,South,South Atlantic,20260206_093845
+2025-12-01,GA,Georgia,13,4.3,-0.2,down,32,South,South Atlantic,20260206_093845
+2025-12-01,HI,Hawaii,15,6.2,-0.2,down,2,West,Pacific,20260206_093845
+2025-12-01,IA,Iowa,19,2.6,0.1,up,50,Midwest,West North Central,20260206_093845
+2025-12-01,ID,Idaho,16,6.1,0.2,up,4,West,Mountain,20260206_093845
+2025-12-01,IL,Illinois,17,5.6,-0.2,down,14,Midwest,East North Central,20260206_093845
+2025-12-01,IN,Indiana,18,4.4,0.0,flat,30,Midwest,East North Central,20260206_093845
+2025-12-01,KS,Kansas,20,4.2,0.0,flat,34,Midwest,West North Central,20260206_093845
+2025-12-01,KY,Kentucky,21,5.5,0.3,up,16,South,East South Central,20260206_093845
+2025-12-01,LA,Louisiana,22,3.1,0.1,up,44,South,West South Central,20260206_093845
+2025-12-01,MA,Massachusetts,25,5.0,0.1,up,25,Northeast,New England,20260206_093845
+2025-12-01,MD,Maryland,24,5.3,-0.1,down,19,South,South Atlantic,20260206_093845
+2025-12-01,ME,Maine,23,3.8,-0.3,down,38,Northeast,New England,20260206_093845
+2025-12-01,MI,Michigan,26,6.4,0.0,flat,1,Midwest,East North Central,20260206_093845
+2025-12-01,MN,Minnesota,27,4.3,-0.2,down,32,Midwest,West North Central,20260206_093845
+2025-12-01,MO,Missouri,29,5.4,-0.2,down,18,Midwest,West North Central,20260206_093845
+2025-12-01,MS,Mississippi,28,5.3,0.3,up,19,South,East South Central,20260206_093845
+2025-12-01,MT,Montana,30,5.1,0.0,flat,24,West,Mountain,20260206_093845
+2025-12-01,NC,North Carolina,37,3.7,-0.1,down,39,South,South Atlantic,20260206_093845
+2025-12-01,ND,North Dakota,38,5.3,-0.1,down,19,Midwest,West North Central,20260206_093845
+2025-12-01,NE,Nebraska,31,2.7,-0.3,down,49,Midwest,West North Central,20260206_093845
+2025-12-01,NH,New Hampshire,33,5.9,-0.2,down,9,Northeast,New England,20260206_093845
+2025-12-01,NJ,New Jersey,34,4.7,-0.1,down,27,Northeast,Middle Atlantic,20260206_093845
+2025-12-01,NM,New Mexico,35,5.7,-0.3,down,13,West,Mountain,20260206_093845
+2025-12-01,NV,Nevada,32,2.9,0.1,up,47,West,Mountain,20260206_093845
+2025-12-01,NY,New York,36,4.4,0.2,up,30,Northeast,Middle Atlantic,20260206_093845
+2025-12-01,OH,Ohio,39,5.3,-0.3,down,19,Midwest,East North Central,20260206_093845
+2025-12-01,OK,Oklahoma,40,3.4,0.0,flat,40,South,West South Central,20260206_093845
+2025-12-01,OR,Oregon,41,3.3,-0.1,down,43,West,Pacific,20260206_093845
+2025-12-01,PA,Pennsylvania,42,5.8,-0.1,down,11,Northeast,Middle Atlantic,20260206_093845
+2025-12-01,RI,Rhode Island,44,5.5,0.2,up,16,Northeast,New England,20260206_093845
+2025-12-01,SC,South Carolina,45,5.6,0.2,up,14,South,South Atlantic,20260206_093845
+2025-12-01,SD,South Dakota,46,4.6,-0.2,down,28,Midwest,West North Central,20260206_093845
+2025-12-01,TN,Tennessee,47,4.0,-0.2,down,37,South,East South Central,20260206_093845
+2025-12-01,TX,Texas,48,6.0,0.2,up,5,South,West South Central,20260206_093845
+2025-12-01,UT,Utah,49,4.1,-0.1,down,35,West,Mountain,20260206_093845
+2025-12-01,VA,Virginia,51,6.0,0.2,up,5,South,South Atlantic,20260206_093845
+2025-12-01,VT,Vermont,50,4.8,0.2,up,26,Northeast,New England,20260206_093845
+2025-12-01,WA,Washington,53,6.0,0.3,up,5,West,Pacific,20260206_093845
+2025-12-01,WI,Wisconsin,55,5.9,-0.3,down,9,Midwest,East North Central,20260206_093845
+2025-12-01,WV,West Virginia,54,6.0,-0.3,down,5,South,South Atlantic,20260206_093845
+2025-12-01,WY,Wyoming,56,3.1,0.2,up,44,West,Mountain,20260206_093845

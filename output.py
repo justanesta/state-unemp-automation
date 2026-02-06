@@ -30,9 +30,10 @@ _MONTH_ABBREVS: dict[int, str] = {
 
 
 def _format_ap_date(date_str: str) -> str:
-    """'2025-12-01' → 'Dec. 1, 2025'."""
+    """'2025-12-01' → 'Dec. 2025'."""
+    # Keeping "day" in case it should be added later
     year, month, day = map(int, date_str.split("-"))
-    return f"{_MONTH_ABBREVS[month]} {day}, {year}"
+    return f"{_MONTH_ABBREVS[month]} {year}"
 
 
 # ---------------------------------------------------------------------------
@@ -366,7 +367,7 @@ def run_output(
         wordsmith_entries.append({
             "state": name,
             "state_code": code,
-            "month": latest_data_month,
+            "date": latest_date,
             "unemployment_rate": rate,
             "mom_change_pp": change,
             "trend_direction": trend_val,
